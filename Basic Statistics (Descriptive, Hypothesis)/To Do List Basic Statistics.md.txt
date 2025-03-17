@@ -1,0 +1,8 @@
+Descriptive statistics: mean, median, variance, skewness, kurtosis of returns.
+
+Correlation and covariance analysis for asset pairs.
+
+Rolling statistics: moving averages, exponentially weighted moving averages (EWMA).
+
+Hypothesis testing: t-tests, normality tests (e.g., Jarque-Bera) for returns.
+

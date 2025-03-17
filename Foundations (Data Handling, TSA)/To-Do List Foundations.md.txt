@@ -1,0 +1,8 @@
+Loading and pre-processing financial data (e.g., CSV files from Yahoo Finance, Quandl, or Alpha Vantage).
+
+Cleaning data: handling missing values, outliers, and adjusting for splits/dividends.
+
+Time-series analysis: calculating returns (simple, log), volatility, and moving averages.
+
+Visualising financial data: candlestick charts, price plots, and volume analysis.
+
