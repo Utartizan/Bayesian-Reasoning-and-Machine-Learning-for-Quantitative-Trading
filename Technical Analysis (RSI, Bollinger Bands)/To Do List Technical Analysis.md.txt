@@ -1,0 +1,8 @@
+Implementing common indicators: RSI, MACD, Bollinger Bands, Stochastic Oscillator.
+
+Trend-following strategies: moving average crossovers, Donchian channels.
+
+Momentum strategies: calculating and using momentum indicators.
+
+Back testing technical strategies: simulating trades and calculating performance metrics (Sharpe ratio, drawdown).
+

@@ -1,0 +1,8 @@
+Black-Scholes model: pricing European options.
+
+Monte Carlo methods for option pricing (e.g., American options).
+
+Binomial tree model: pricing options with discrete steps.
+
+Implied volatility: calculating and visualising the volatility smile.
+

@@ -1,0 +1,8 @@
+Basics of probability: discrete and continuous distributions (normal, log-normal, etc.).
+
+Bayesian updating: updating probabilities of price movements based on new data (e.g., signals, news).
+
+Monte Carlo simulations: estimating probabilities of outcomes (e.g., probability of hitting a price target).
+
+Hidden Markov Models (HMM): modelling market regimes (bull, bear, sideways).
+

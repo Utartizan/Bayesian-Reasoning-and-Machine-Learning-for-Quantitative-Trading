@@ -1,0 +1,8 @@
+Mean-variance optimization: Markowitz portfolio theory (efficient frontier).
+
+Risk metrics: Value-at-Risk (VaR), Conditional Value-at-Risk (CVaR).
+
+Black-Litterman model: incorporating views into portfolio allocation.
+
+Kelly Criterion: optimizing position sizing for risk management.
+

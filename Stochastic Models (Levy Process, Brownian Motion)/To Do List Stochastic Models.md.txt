@@ -1,0 +1,8 @@
+Brownian Motion and Geometric Brownian Motion (GBM): simulating stock price paths.
+
+Mean-reverting processes: Ornstein-Uhlenbeck process for modelling pairs trading or interest rates.
+
+Jump diffusion models: adding jumps to price processes (e.g., Merton model).
+
+Stochastic volatility models: basics of the Heston model for volatility clustering.
+
