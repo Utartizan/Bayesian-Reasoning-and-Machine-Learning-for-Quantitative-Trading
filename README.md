@@ -4,7 +4,7 @@
 
 Welcome to my personal study repository, where I document my learning journey as I prepare for quantitative trading interviews and future work in the field. This repository is a comprehensive collection of notes, code snippets, and educational reflections on key topics in quant trading, all implemented using Octave—a free, open-source numerical computing tool.
 
-Quantitative trading involves using mathematical models, statistical techniques, and computational methods to identify and execute trading opportunities. As I work towards a career in this field, I’ve organised this repository into 15 topics, each representing a critical area of study. These topics range from foundational data handling to advanced stochastic modelling, covering concepts frequently tested in quant interviews and applied in real-world trading roles.
+Quantitative trading involves using mathematical models, statistical techniques, and computational methods to identify and execute trading opportunities. As I work towards a career in this field, I’ve organised this repository into around 13 topics, each representing a critical area of study. These topics range from foundational data handling to advanced stochastic modelling, covering concepts frequently tested in quant interviews and applied in real-world trading roles.
 
 This `README.md` serves as both an educational overview and a guide to my study progress. It explains the purpose of each topic, the key concepts I’ve learnt, and how they relate to quant trading interviews and work. Whether you’re a fellow learner or just curious, I hope this repository provides value and inspiration for your own journey.
 
