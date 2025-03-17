@@ -186,11 +186,9 @@ This repository is a living document of my learning journey, updated as I deepen
   - Sample outputs (e.g., plots) where applicable.
 - Start with `01_foundations_data_handling/` and progress sequentially, or jump to topics relevant to your interests.
 
-### Example Usage
-To explore a topic, navigate to its folder and run the scripts in Octave. For instance:
-```octave
-cd 01_foundations_data_handling
-run('load_data.m')
-run('clean_data.m')
-run('timeseries_analysis.m')
-run('visualise_data.m')
+### To-Do List
+- Perform further research on relevant topics according to the subfolders in this repository.
+  - Start off with Markov Chains, including code that calculates the odds of... for example... achieving heads three times in a row for coin flips.
+- Read up on the 'Bayesian Reasoning and Machine Learning' book by David Barber.
+- Could be beneficial if you could create foundational material for each subfolder to achieve a general level of understanding of the subject as a whole.
+- Keep it up.
