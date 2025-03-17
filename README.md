@@ -1,4 +1,4 @@
-# Quantitative Trading Study Notes in Octave: Preparing for Interviews and Work
+# Quantitative Trading Study Notes: Preparing for Interviews and Work
 
 ## Introduction
 
