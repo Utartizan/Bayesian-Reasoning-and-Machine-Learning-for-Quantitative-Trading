@@ -1,0 +1,7 @@
+Calculating drawdowns: maximum drawdown, average drawdown.
+
+Performance metrics: Sharpe ratio, Sortino ratio, Calmar ratio.
+
+Stress testing: simulating portfolio performance under extreme scenarios.
+
+Risk parity: allocating weights based on risk contributions.

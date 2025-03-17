@@ -1,0 +1,8 @@
+Order book simulation: modelling bid-ask spread and market impact.
+
+Latency simulation: introducing delays in trade execution.
+
+Market microstructure: analysing tick data and volume profiles.
+
+Basic HFT strategies: market making, statistical arbitrage.
+

@@ -1,0 +1,8 @@
+Parsing and analysing news or social media data (e.g., sentiment scores).
+
+Basic natural language processing (NLP): keyword extraction, sentiment classification.
+
+Incorporating alternative data into trading models (e.g., macroeconomic indicators).
+
+Event-driven strategies: reacting to earnings reports, Fed announcements.
+

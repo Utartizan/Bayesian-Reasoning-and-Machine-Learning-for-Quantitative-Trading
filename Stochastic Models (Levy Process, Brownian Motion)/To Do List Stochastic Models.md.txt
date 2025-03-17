@@ -1,8 +1,8 @@
-Brownian Motion and Geometric Brownian Motion (GBM): simulating stock price paths.
+Levy processes: modelling fat tails and jumps in price movements.
 
-Mean-reverting processes: Ornstein-Uhlenbeck process for modelling pairs trading or interest rates.
+Fractional Brownian Motion: capturing long-memory effects in markets.
 
-Jump diffusion models: adding jumps to price processes (e.g., Merton model).
+Regime-switching models: detecting shifts in market behaviour.
 
-Stochastic volatility models: basics of the Heston model for volatility clustering.
+Copulas: modelling dependence between assets with non-normal distributions.
 

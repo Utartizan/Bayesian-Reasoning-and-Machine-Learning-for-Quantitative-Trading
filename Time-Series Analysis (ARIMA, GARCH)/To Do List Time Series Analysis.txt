@@ -1,0 +1,8 @@
+ARIMA models: forecasting price or volatility.
+
+GARCH models: modelling and forecasting volatility clustering.
+
+Cointegration and pairs trading: identifying mean-reverting relationships.
+
+Kalman filters: smoothing noisy financial data or estimating hidden states.
+
